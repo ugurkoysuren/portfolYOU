@@ -25,17 +25,17 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Ugur Köysüren
   image             : http://ugurkoysuren.github.io/pages/ugur.jpeg
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
   email             : ugurkoysuren@gmail.com
-  facebook          : your_username
+# facebook          : your_username
   github            : ugurkoysuren
 # gitlab            : your_username
 # instagram         : your_username
   linkedin          : koysurenugur
-  medium            : your_username
+  medium            : ugurkoysuren
 # soundcloud        : your_username
-# spotify           : your_username
+  spotify           : ugurkoysuren
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
