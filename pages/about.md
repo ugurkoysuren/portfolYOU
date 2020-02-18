@@ -8,7 +8,12 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm a multilingual Technology Freak and Software developer based in Nuremberg, Germany. 
+I work in great passionate team, surrounded with great people!. I'm passionate in Technology and
+its advantages. Focused in development of Java/EE applications, Backend Solutions. I also
+love developing single-page applications based on Angular, TypeScript, HTML5 and CSS3. When
+I'm not developing softwares, I mostly play video games, explore new places and really enjoy
+listening music
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
