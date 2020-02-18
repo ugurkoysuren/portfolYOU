@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Ugur's Portfolio
+title               : portfolYOU
 description         : >-
                       "I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Ugur Köysüren
+  name              : John Doe
   image             : http://ugurkoysuren.github.io/pages/ugur.jpeg
   behance           : your_username
 # dribbble          : your_username
