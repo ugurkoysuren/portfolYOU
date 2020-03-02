@@ -1,11 +1,17 @@
-- title: Student, Özyegin EE
-  from: 2013
-  to: 2017
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Engineer, isento GmbH, DE
+  from: 2017
+  to: 
+  description: 
+• Researching, designing, implementing and managing software programs
+• Testing and evaluating new programs
+• Identifying areas for modification in existing programs and subsequently developing these modifications
+• Writing and implementing efficient code
+• Determining operational practicality
+• Developing quality assurance procedures
+• Deploying software tools, processes and metrics
+• Maintaining and upgrading existing systems
+• Training users
+• Working closely with other developers, UX designers, business and systems 
 
 - title: Intern, Mercedes-Benz, TR
   from: 2016
@@ -16,9 +22,9 @@
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, isento GmbH, DE
-  from: 2017
-  to: present
+- title: Student, Özyegin EE
+  from: 2013
+  to: 2017
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
